@@ -11,8 +11,7 @@ Click on link to see the deployed website https://reza-mahmoudian.github.io/Pass
 
 ## General Information
 - The page has code for password generator
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
+- This application generates passwords with asking you about the criteria
 
 
 
@@ -23,4 +22,4 @@ Click on link to see the deployed website https://reza-mahmoudian.github.io/Pass
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Home Page](./assets/img/ScreenShot.png)
