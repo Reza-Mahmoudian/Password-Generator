@@ -11,7 +11,7 @@ Click on link to see the deployed website https://reza-mahmoudian.github.io/Pass
 
 ## General Information
 - The page has code for password generator
-- This application generates passwords with asking you about the criteria
+- This application generates passwords by asking you about the criteria
 
 
 
