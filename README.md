@@ -1,4 +1,4 @@
-# Project Name
+# Password Generator
 
 ## Table of Contents
 * [Link to application](#link-to-application)
